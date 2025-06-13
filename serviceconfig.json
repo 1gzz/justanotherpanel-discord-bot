@@ -1,0 +1,16 @@
+{
+  "services": {
+    "iglikes": {
+      "service_id": 8464,
+      "display_name": "Instagram Likes"
+    },
+    "tiktoklikes": {
+      "service_id": 9001,
+      "display_name": "TikTok Likes"
+    },
+    "tiktokfollowers": {
+      "service_id": 9129,
+      "display_name": "TikTok Followers"
+    }
+  }
+}
